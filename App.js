@@ -3,6 +3,5 @@ const heading = React.createElement(
   { id: "title"},
   "Hello World from React"
 );
-console.log(heading);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(heading);
