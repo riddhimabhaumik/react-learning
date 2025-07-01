@@ -1,0 +1,25 @@
+{
+  "name": "riddhima-react",
+  "version": "1.0.0",
+  "description": "React module learning by Riddhima Bhaumik",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riddhimabhaumik/react-learning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Riddhima Bhaumik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riddhimabhaumik/react-learning/issues"
+  },
+  "homepage": "https://github.com/riddhimabhaumik/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
